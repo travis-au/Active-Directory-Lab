@@ -11,5 +11,4 @@ The VM will later be promoted to a Domain Controller for the Active Directory en
 
 <p align="center"><img src="images/vm-creation1.png" height="85%" width="85%"></p>
 
-![Creating-the-Domain-Controller-VM](images/vm-creation1.png)
 
