@@ -5,5 +5,5 @@ This screenshot shows the initial setup of the Windows Server virtual machine (D
 The VM will later be promoted to a Domain Controller for the Active Directory environment.
 
 
-![Creating the Domain Controller VM](images/vm-creation1.png)
+![Creating-the-Domain-Controller-VM](images/vm-creation1.png)
 
