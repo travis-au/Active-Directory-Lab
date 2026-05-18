@@ -1,8 +1,7 @@
 # Active-Directory-Lab
 <h1>Working with Active Directory in Windows Server 2025<h1>
-
   <h2>Description</h2>
-  <b>In Azure, I create a virtual machine</b>
+  <b>In Azure, I create a virtual machine and install a Windows Server 2025 instance. I deploy the server as a Domain Controller, and create users and groups.</b>
   <br />
   <br />
   <h3>Step 1: Creating the Domain Controller VM
