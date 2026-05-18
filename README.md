@@ -18,6 +18,7 @@
 
 <p align="center">
   <img src="images/vm-creation1.png" height="85%" width="85%" alt="virtual machine DC01"/>
+  <img src="images/vm-creation2.png" height="85%" width="85%" alt="virtual machine DC01"/>
 </p>
 
 
