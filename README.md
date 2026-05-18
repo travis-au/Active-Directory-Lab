@@ -22,7 +22,8 @@
 </p>
 
 <br />
-<h3>Step 2: Installing Active Directory Domain Services (AD DS).</h3>
+
+<h3>Step 2: Installing Active Directory Domain Services (AD DS)</h3>
 <p>
   In this step, I connected to my server via RDP and opened Server Manager to begin installing the Active Directory Domain Services role. I used the Add Roles and Features wizard to select Active Directory Domain Services, added the required features, and completed the installation. At this stage, I’m only installing the AD DS binaries and management tools—I’m not creating a domain or promoting the server yet . No domain, forest, DNS, or authentication settings are configured during this step; the server simply becomes AD‑DS‑ready. Once the installation finished, Server Manager displayed the notification to Promote this server to a domain controller, confirming that the role was successfully installed and the server is ready for domain creation in the next step .
 </p>
@@ -39,6 +40,10 @@
   <img src="images/vm-creation9.png" height="85%" width="85%" alt="virtual machine DC01"/>
   <img src="images/vm-creation10.png" height="85%" width="85%" alt="virtual machine DC01"/>
 </p>
+
+<br />
+
+<h3>Step: Promote the Server to a Domain Controller</h3>
 
 
 
