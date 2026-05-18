@@ -3,7 +3,7 @@
   
 <h2>Description</h2>
 
-<b>In Azure, I create a virtual machine and install a Windows Server 2025 instance. I deploy the server as a Domain Controller, and create users and groups.
+<b>In Azure, I create a virtual machine and install a Windows Server 2025 instance. I promote the server to a Domain Controller and build a basic Active Directory structure, creating users and groups.
 </b>
 
 <br />
