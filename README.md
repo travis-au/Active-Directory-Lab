@@ -6,9 +6,12 @@
   <br />
   <h3>Step 1: Creating the Domain Controller VM
 This screenshot shows the initial setup of the Windows Server virtual machine (DC01) in Azure. 
-The VM will later be promoted to a Domain Controller for the Active Directory environment.</h3>
-<br />
+The VM will later be promoted to a Domain Controller for the Active Directory environment.
+  </h3>
+  <br />
 
-<p align="center"><img src="images/vm-creation1.png" height="85%" width="85%" alt="virtual machine DC01/></p>
+<p align="center">
+  <img src="images/vm-creation1.png" height="85%" width="85%" alt="virtual machine DC01"/>
+</p>
 
 
