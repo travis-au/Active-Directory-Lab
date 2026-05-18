@@ -50,8 +50,16 @@
 
 <br />
 
-<p>
-  <img src="images/vm-creation10.png" height="85%" width="85%" alt="virtual machine DC01"/>
+<p align="center">
+  <img src="images/vm-creation11.png" height="85%" width="85%" alt="virtual machine DC01"/>
+  <img src="images/vm-creation12.png" height="85%" width="85%" alt="virtual machine DC01"/>
+  <img src="images/vm-creation13.png" height="85%" width="85%" alt="virtual machine DC01"/>
+  <img src="images/vm-creation14.png" height="85%" width="85%" alt="virtual machine DC01"/>
+  <img src="images/vm-creation15.png" height="85%" width="85%" alt="virtual machine DC01"/>
+  <img src="images/vm-creation16.png" height="85%" width="85%" alt="virtual machine DC01"/>
+  <img src="images/vm-creation17.png" height="85%" width="85%" alt="virtual machine DC01"/>
+  <img src="images/vm-creation18.png" height="85%" width="85%" alt="virtual machine DC01"/>
+  <img src="images/vm-creation19.png" height="85%" width="85%" alt="virtual machine DC01"/>
 </p>
 
 
