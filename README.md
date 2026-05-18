@@ -64,7 +64,7 @@
 
 <br />
 
-<h3>Step: Create Organizational Units</h3>
+<h3>Step 4: Create Organizational Units</h3>
 
 
 
