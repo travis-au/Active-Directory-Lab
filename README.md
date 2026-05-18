@@ -62,5 +62,9 @@
   <img src="images/vm-creation19.png" height="85%" width="85%" alt="virtual machine DC01"/>
 </p>
 
+<br />
+
+<h3>Step: Create Organizational Units</h3>
+
 
 
