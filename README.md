@@ -44,6 +44,9 @@
 <br />
 
 <h3>Step: Promote the Server to a Domain Controller</h3>
+<p>
+  With AD DS installed, I used Server Manager to start the promotion process by selecting the notification flag and choosing Promote this server to a domain controller . Since this is a brand‑new environment, I created a new forest and specified my private internal root domain name (e.g., lab.local) . I kept the default Domain Controller options, enabled DNS and Global Catalog, and set a Directory Services Restore Mode (DSRM) password, which is required for recovery scenarios even though it’s rarely used day‑to‑day . After reviewing the configuration, I proceeded through the DNS and NetBIOS steps, accepted the defaults for database, log, and SYSVOL paths, and ran the prerequisites check Current page. Once everything passed, I completed the installation, and the server automatically rebooted. After the restart, I logged in using my new domain administrator account, confirming that the server was successfully promoted and that Active Directory and DNS tools were now available
+</p>
 
 
 
