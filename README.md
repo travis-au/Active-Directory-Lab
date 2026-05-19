@@ -73,7 +73,22 @@
 <br />
 
 <p align="center">
-  <img src="images/vm-creation19.png" height="85%" width="85%" alt="virtual machine DC01"/>
+  <img src="images/vm-creation20.png" height="85%" width="85%" alt="virtual machine DC01"/>
+  <img src="images/vm-creation21.png" height="85%" width="85%" alt="virtual machine DC01"/>
+</p>
+
+<br />
+
+<h3>Step 5: Create Users</h3>
+
+<p>
+  In this step, I began adding user accounts to my domain by creating them inside the correct Organizational Unit structure. I opened Active Directory Users and Computers, navigated to my branch‑specific Users OU, and created my first user by entering their name and logon details . I set an initial password and kept the standard password options unchanged for the lab environment Current page. After that, I created the remaining users and placed them in the same OU so they inherit the proper policies and remain organized according to the domain structure . Once finished, I verified that all accounts appeared in the correct OU and that each user’s properties reflected the right path in Active Directory Current page.
+</p>
+
+<br />
+
+<p align="center">
+  <img src="images/vm-creation21.png" height="85%" width="85%" alt="virtual machine DC01"/>
 </p>
 
 
