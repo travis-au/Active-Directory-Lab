@@ -88,8 +88,14 @@
 <br />
 
 <p align="center">
-  <img src="images/vm-creation21.png" height="85%" width="85%" alt="virtual machine DC01"/>
+  <img src="images/vm-creation22.png" height="85%" width="85%" alt="virtual machine DC01"/>
+  <img src="images/vm-creation23.png" height="85%" width="85%" alt="virtual machine DC01"/>
+  <img src="images/vm-creation24.png" height="85%" width="85%" alt="virtual machine DC01"/>
 </p>
+
+<br />
+
+<h3>Step 6: Create Security Groups</h3>
 
 
 
