@@ -97,5 +97,17 @@
 
 <h3>Step 6: Create Security Groups</h3>
 
+<p>
+  In this step, I set up the security groups that will control access throughout my Active Directory environment. Since groups are usually centralized rather than stored inside branch OUs, I first created a dedicated _Groups OU at the domain root to keep everything organized . Inside this OU, I created three Global Security Groups—Helpdesk, Accounting, and ITSupport—which represent the different roles or departments in my lab environment . Global Security Groups are the standard choice for grouping users by role because they can be cleanly nested into resource‑specific groups later on Current page.
+
+After creating the groups, I assigned users to them based on their job function—for example, adding Alice Johnson to Helpdesk, bmartinez to Accounting, and cwalker to ITSupport . Finally, I verified each group to ensure the correct members were listed, since group membership is how access is granted in real‑world AD environments and changes take effect immediately 
+</p>
+
+<br />
+
+<p>
+  <img src="images/vm-creation24.png" height="85%" width="85%" alt="virtual machine DC01"/>
+</p>
+
 
 
