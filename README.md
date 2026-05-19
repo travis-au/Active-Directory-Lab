@@ -66,5 +66,15 @@
 
 <h3>Step 4: Create Organizational Units</h3>
 
+<p>
+  With my Domain Controller fully promoted, I began organizing the domain by creating a set of Organizational Units (OUs) to structure users, computers, and administrative groups. I opened Active Directory Users and Computers and created a top‑level OU to hold all domain resources, then added sub‑OUs for Users, Computers, and Admins. This structure keeps the environment clean and makes it easier to apply Group Policies later. By separating standard users, admin accounts, and computer objects into their own OUs, I ensure better security, clearer management boundaries, and more precise control over policies as the domain grows.
+</p>
+
+<br />
+
+<p align="center">
+  <img src="images/vm-creation19.png" height="85%" width="85%" alt="virtual machine DC01"/>
+</p>
+
 
 
