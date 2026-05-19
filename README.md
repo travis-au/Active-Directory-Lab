@@ -106,8 +106,17 @@ After creating the groups, I assigned users to them based on their job functionâ
 <br />
 
 <p>
-  <img src="images/vm-creation24.png" height="85%" width="85%" alt="virtual machine DC01"/>
+  <img src="images/vm-creation25.png" height="85%" width="85%" alt="virtual machine DC01"/>
+  <img src="images/vm-creation26.png" height="85%" width="85%" alt="virtual machine DC01"/>
+  <img src="images/vm-creation27.png" height="85%" width="85%" alt="virtual machine DC01"/>
+  <img src="images/vm-creation28.png" height="85%" width="85%" alt="virtual machine DC01"/>
+  <img src="images/vm-creation29.png" height="85%" width="85%" alt="virtual machine DC01"/>
+  <img src="images/vm-creation30.png" height="85%" width="85%" alt="virtual machine DC01"/>
 </p>
+
+<br />
+
+<h3>Step 7: Create a Windows Client VM and Join the Domain</h3>
 
 
 
