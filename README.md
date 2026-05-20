@@ -126,8 +126,20 @@ After creating the groups, I assigned users to them based on their job functionâ
 
 <br />
 
-<p>
-  <img src="images/vm-creation30.png" height="85%" width="85%" alt="virtual machine DC01"/>
+<p align="center">
+  <img src="images/vm-creation31.png" height="85%" width="85%" alt="virtual machine DC01"/>
+  <img src="images/vm-creation32.png" height="85%" width="85%" alt="virtual machine DC01"/>
+  <img src="images/vm-creation33.png" height="85%" width="85%" alt="virtual machine DC01"/>
+  <img src="images/vm-creation34.png" height="85%" width="85%" alt="virtual machine DC01"/>
+  <img src="images/vm-creation35.png" height="85%" width="85%" alt="virtual machine DC01"/>
+  <img src="images/vm-creation36.png" height="85%" width="85%" alt="virtual machine DC01"/>
+  <img src="images/vm-creation37.png" height="85%" width="85%" alt="virtual machine DC01"/>
+  <img src="images/vm-creation38.png" height="85%" width="85%" alt="virtual machine DC01"/>
+  <img src="images/vm-creation39.png" height="85%" width="85%" alt="virtual machine DC01"/>
+  <img src="images/vm-creation40.png" height="85%" width="85%" alt="virtual machine DC01"/>
+  <img src="images/vm-creation41.png" height="85%" width="85%" alt="virtual machine DC01"/>
+  <img src="images/vm-creation42.png" height="85%" width="85%" alt="virtual machine DC01"/>
+  <img src="images/vm-creation43.png" height="85%" width="85%" alt="virtual machine DC01"/>
 </p>
 
 
