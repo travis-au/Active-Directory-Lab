@@ -139,7 +139,6 @@ After creating the groups, I assigned users to them based on their job functionâ
   <img src="images/vm-creation40.png" height="85%" width="85%" alt="virtual machine DC01"/>
   <img src="images/vm-creation41.png" height="85%" width="85%" alt="virtual machine DC01"/>
   <img src="images/vm-creation42.png" height="85%" width="85%" alt="virtual machine DC01"/>
-  <img src="images/vm-creation43.png" height="85%" width="85%" alt="virtual machine DC01"/>
 </p>
 
 <br />
