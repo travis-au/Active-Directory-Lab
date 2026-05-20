@@ -155,6 +155,12 @@ After logging in successfully, I verified the user in Active Directory and confi
 
 <br />
 
+<p align="center">
+  <img src="images/vm-creation43.png" height="85%" width="85%" alt="virtual machine DC01"/>
+  <img src="images/vm-creation44.png" height="85%" width="85%" alt="virtual machine DC01"/>
+  <img src="images/vm-creation45.png" height="85%" width="85%" alt="virtual machine DC01"/>
+</p>
+
 
 
 
