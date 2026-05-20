@@ -146,5 +146,17 @@ After creating the groups, I assigned users to them based on their job function�
 
 <h3>Step 8: Test Authentication</h3>
 
+<p>
+  To confirm that my Active Directory environment was working end‑to‑end, I logged into the client machine using one of the domain user accounts I created earlier. This test verifies that the client can locate a Domain Controller, authenticate the user, build a Kerberos token, and apply group membership correctly. On the login screen, I selected Other user and signed in using the domain format (e.g., LAB\ajohnson) with the password I assigned during user creation. The first login took a bit longer as Windows created the user profile.
+
+Because this lab uses a Windows Server VM as the client and I’m connecting through RDP, I also had to ensure my domain users were allowed to sign in remotely. Active Directory authentication alone isn’t enough—RDP requires local permission on the client machine. If a domain user was blocked, I logged in as a local admin and added the appropriate AD security groups (Helpdesk, Accounting, ITSupport) to the Remote Desktop Users group on CLIENT01 using Add-LocalGroupMember commands.
+
+After logging in successfully, I verified the user in Active Directory and confirmed that the account existed in the correct OU path. Finally, on the client, I ran whoami /groups to ensure the user received the correct security group memberships in their Kerberos token, which confirms that authorization is functioning properly. With a successful login and correct group membership, I validated that my domain environment was fully operational. 
+</p>
+
+<br />
+
+
+
 
 
